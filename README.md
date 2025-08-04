@@ -3,6 +3,12 @@
 ## Project Overview
 
 This Power BI dashboard analyzes customer behavior, demographics and churn patterns for a fictional bank.The goal is to understand who the customers are why are leaving and how to impprove customer retention rate using interactve and dynamic visualizations.
+
+## Tools
+* Power Query
+* Data Modeling
+* DAX
+* PowerBI Desktop
 ## Data Preparation
 
 Performed in Power query editor:
